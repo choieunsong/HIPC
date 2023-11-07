@@ -1,0 +1,6 @@
+Timing Summary
+ Fill Time: 0.002163
+ Calc Area Time: 0.000061
+ Calc Vol Time: 0.000060
+ Calc Intersect Time: 0.369388
+ Total Time: 0.496490
